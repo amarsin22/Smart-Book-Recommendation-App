@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import axios from 'axios';
 import SearchBar from './components/SearchBar';
 import BookList from './components/BookList';
